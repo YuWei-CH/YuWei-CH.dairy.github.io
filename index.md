@@ -1,4 +1,4 @@
-# 一个日记本
+# 一个日记本📖
 
 > ### 日记部分:
 > 
@@ -26,5 +26,4 @@
 ![night](https://pics.images.ac.cn/image/5ead455c61a0f.html)
 
 
-🔙
-[back](www.yuweisun.top)
+[🔙back](www.yuweisun.top)
