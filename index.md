@@ -1,22 +1,26 @@
-复制<script type="text/javascript">   
-function password() {   
-var testV = 1;   
-var pass1 = prompt('请输入密码:','');   
-while (testV < 3) {   
-if (!pass1)    
-history.go(-1);   
-if (pass1 == "123") {//设置密码
-alert('口令正确，进行跳转');   
-window.location.href="http://test.junyao2018.cn/";//添加你要跳转的页面
-break;   
-}    
-testV+=1;   
-var pass1 =    
-prompt('密码错误','');   
-}   
-if (pass1!="password" & testV ==3)    
-history.go(-1);   
-return " ";   
-}    
-document.write(password());   
-</script>
+# 一个日记本
+
+> ### 日记部分:
+> 
+> * ***4.27***    
+ >> 忘了干什么了   
+ *** 
+> * ***4.28***   
+ >> 好像是摸鱼  
+ *** 
+> * ***4.29***   
+ >> 花了9元重金购买了域名   
+ *** 
+> * ***4.30***  
+ >> 要放假了  
+ >> cs考试绝了 
+ ***
+> * ***5.1***  
+ >> 不应该吃烤肉的 
+ ***
+ > * ***5.2***
+   >> 定点投篮太难了
+
+*A beautiful world for you*
+ 
+![night](https://pics.images.ac.cn/image/5ead455c61a0f.html)
