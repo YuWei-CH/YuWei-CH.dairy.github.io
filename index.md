@@ -30,7 +30,7 @@
  
 ![night](https://pics.images.ac.cn/image/5eaec8d94a94e.html)   
 
-[✒️](https://github.com/YuWei-CH/YuWei-CH.dairy.github.io/blob/master/index.md)      
+[✒️](https://github.com/YuWei-CH/YuWei-CH.dairy.github.io/edit/master/index.md)      
 
 
 [🔙back](https://www.yuweisun.top)      
